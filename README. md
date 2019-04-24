@@ -1,0 +1,14 @@
+# Backend-server
+
+Este es el codigo necesario para establecer el Backend
+conectado a MongoDB usando Mongose.
+
+Para ejecutarlo, es necesario recosntruir los modulos de node usando el comando
+
+```
+npm install
+```
+
+## Dentro de Google-signin-demo
+
+existe un pequeño ejercicio para probar la autenticacion de Google en un front-end basico pero funcional.
